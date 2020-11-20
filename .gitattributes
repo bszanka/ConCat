@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Project displayed as 98% html because of the libraries.
 *.html linguist-language=Java
